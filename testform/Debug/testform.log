@@ -1,0 +1,5 @@
+﻿  form.cpp
+  testform.cpp
+  Generating Code...
+  form.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  testform.vcxproj -> F:\programe\testform\Debug\testform.exe
